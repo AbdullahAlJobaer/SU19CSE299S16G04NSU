@@ -10,7 +10,7 @@ email : sadman.ahmed16@northsouth.edu
 
 ![alt text][logo]
 
-[logo]:GROUP 04/nsu.png
+[logo]:https://github.com/sadmanahmed/SU19CSE299S16G04NSU/blob/master/GROUP%2004/nsu.png
 
 
 #Project Name:  NSU Event Management Tool
