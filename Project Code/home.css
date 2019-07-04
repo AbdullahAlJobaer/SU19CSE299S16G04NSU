@@ -33,3 +33,14 @@ ul li a:hover{
   background-color: #fff;
   color: #000;
 }
+
+.logo img{
+  float: left;
+  width: 100px;
+  height: auto;
+}
+
+.main{
+  max-width: 1200px;
+  margin: auto;
+}
