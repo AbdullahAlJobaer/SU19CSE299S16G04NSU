@@ -1,6 +1,6 @@
 ![alt text][logo]
 
-[logo]:https://github.com/sadmanahmed/SU19CSE299S16G04NSU/blob/master/GROUP%2004/nsu.png
+[logo]:nsu.png
 
 
 # Project Name:  NSU Event Management Tool
