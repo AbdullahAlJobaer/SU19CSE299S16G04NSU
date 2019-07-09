@@ -1,6 +1,6 @@
 class Log_In < ApplicationRecord
 
-  validates :name, presence: true , uniqueness: true
+  validates :name, length:{maximum: 80 } ,presence: true , uniqueness: false
 
   validates :password  ,presence: true, length: 8..20,confirmation: true, if: :password_required?
 
