@@ -39,6 +39,14 @@ ul li.active a{
   color: #000;
 }
 
+ul ul{
+  display: none;
+}
+
+ul li:hover > ul{
+  display: block;
+}
+
 .logo img{
   float: left;
   width: 100px;
