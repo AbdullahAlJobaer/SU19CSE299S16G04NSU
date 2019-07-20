@@ -9,3 +9,18 @@ body{
   font-family: arial;
 
 }
+
+.main{
+  max-width: 550px;
+  border-radius: 20px;
+  margin: auto;
+  background-color: rgba(0, 0, 0, 0.8);
+  box-sizing: border-box;
+  padding: 20px;
+  color: #fff;
+  margin-top: 200px;
+}
+
+h1{
+  text-align: center;
+}
