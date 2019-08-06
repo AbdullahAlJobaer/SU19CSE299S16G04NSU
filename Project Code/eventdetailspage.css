@@ -62,7 +62,7 @@ section .events ul{
   top: 50%;
   transform: translateY(-50%);
   margin: 0;
-  padding: 50px;
+  padding: 40px;
   box-sizing: border-box;
 }
 
@@ -71,4 +71,33 @@ section .events ul li{
   background: #fff;
   box-sizing: border-box;
   height: 200px;
+}
+
+section .events ul li .time{
+  position: relative;
+  padding: 20px;
+  background: #262626;
+  box-sizing: border-box;
+  width: 40%;
+  height: 100%;
+  float: left;
+  text-align: center;
+  transition: 0.5s;
+
+}
+
+section .events ul li:hover .time{
+  background: #e91e63;
+}
+
+section .events ul li .time h2{
+  position: absolute;
+  margin: 0;
+  padding: 0;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+  color: #fff;
+  font-size: 20px;
+  line-height: 30px;
 }
