@@ -71,6 +71,7 @@ section .events ul li{
   background: #fff;
   box-sizing: border-box;
   height: 200px;
+  margin: 15px 0;  
 }
 
 section .events ul li .time{
