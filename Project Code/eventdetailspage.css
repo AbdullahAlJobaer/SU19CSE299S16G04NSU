@@ -78,7 +78,7 @@ section .events ul li .time{
   padding: 20px;
   background: #262626;
   box-sizing: border-box;
-  width: 40%;
+  width: 30%;
   height: 100%;
   float: left;
   text-align: center;
@@ -100,4 +100,25 @@ section .events ul li .time h2{
   color: #fff;
   font-size: 20px;
   line-height: 30px;
+}
+
+section .events ul li .time h2 span{
+  font-size: 30px;
+}
+
+section .events ul li .details{
+  padding: 20px;
+  background: #fff;
+  box-sizing: border-box;
+  width: 70%;
+  height: 100%;
+  float: left;
+}
+
+section .events ul li .details h3{
+  position: relative;
+  margin: 0;
+  padding: 0;
+  font-size: 22px;
+  
 }
