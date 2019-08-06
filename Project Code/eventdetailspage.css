@@ -13,3 +13,11 @@ section{
   background: url(eventdetailspage.jpg);
   background-size: cover;
 }
+
+section .leftbox{
+  width: 50%;
+  height: 100%;
+  float: left;
+  padding: 50px;
+  box-sizing: border-box;
+}
