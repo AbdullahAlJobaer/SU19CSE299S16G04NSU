@@ -139,3 +139,9 @@ section .events ul li .details a{
   font-size: 18px;
   transition: 0.5s;
 }
+
+section .events ul li .details a:hover{
+  background: #e91e63;
+  color: #fff;
+
+}
