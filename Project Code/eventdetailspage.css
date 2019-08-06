@@ -21,3 +21,15 @@ section .leftbox{
   padding: 50px;
   box-sizing: border-box;
 }
+
+section .leftbox .content{
+  color: #fff;
+  background: rgba(0, 0, 0, 0.5);
+  padding: 40px;
+  transition: 0.5s;
+
+}
+
+section .leftbox .content:hover{
+  background: #e91e63;
+}
