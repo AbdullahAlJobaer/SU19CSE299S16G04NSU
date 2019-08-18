@@ -60,25 +60,67 @@ Now a day mobile banking is becoming popular day by day. That is why we want to 
 
 ## Front END Development Part
 
-###
+### Landing Page
 <p align="center">
-  <img width="460" height="300" src= "nsu.png">
+  <img width="460" height="300" src= "LandingPage.jpg">
 </p>
 
+After enter the address of the website, user first of all see this page. Here he or she can login if he or she has already a account here. Otherwise there is also a option for signup.
 
 
-###
+### Login
 <p align="center">
-  <img width="460" height="300" src= "nsu.png">
+  <img width="460" height="300" src= "Login.jpg">
 </p>
 
+To enter in to the website, user have to login. Here user can login into the website with his or her nsu email and password.
 
-###
+### Sign Up
 <p align="center">
-  <img width="460" height="300" src= "nsu.png">
+  <img width="460" height="300" src= "Signup.jpg">
 </p>
 
+For a new user, he or she has to register in the website. For this, he or she has to enter his or her name, nsu email and password here. Without nsu email, no one can register in the website as it is only for the students of North South University.
 
+### Home
+<p align="center">
+  <img width="460" height="300" src= "Home.jpg">
+</p>
+
+After login or signup, user will get this page. Here he or she can get the option for looking events details, events registration, user account and sign out.
+
+### Events
+<p align="center">
+  <img width="460" height="300" src= "Events.JPG">
+</p>
+
+Here user can find the REGISTERED and REGISTRATION option of the events.
+
+### User
+<p align="center">
+  <img width="460" height="300" src= "User.JPG">
+</p>
+
+In this section user will find to see his or her profile through ACCOUNT and also find the SIGN OUT option.
+
+### Registration
+<p align="center">
+  <img width="460" height="300" src= "Registration.jpg">
+</p>
+
+In this page, an user can create an event. He or she can put the necessary details here like event name, date, details and location. Again he or she can find the payment option here to post an event.
+
+### Registered
+<p align="center">
+  <img width="460" height="300" src= "Registered.jpg">
+</p>
+
+Here people will find the schedules of different events. They can also know the details also from here.
+
+### Account
+
+
+We couldn’t  create this section of the website. Hopefully we will think about it as soon as we figure it out.
 
 
 
