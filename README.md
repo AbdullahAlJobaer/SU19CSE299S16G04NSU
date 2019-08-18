@@ -1,6 +1,4 @@
-![alt text][logo]
 
-[logo]:nsu.png
 
 <p align="center">
   <img width="460" height="300" src= "nsu.png">
@@ -63,40 +61,24 @@ Now a day mobile banking is becoming popular day by day. That is why we want to 
 ## Front END Development Part
 
 ###
-![alt text][logo]
+<p align="center">
+  <img width="460" height="300" src= "nsu.png">
+</p>
 
-[logo]:
-
-
-
-###
-![alt text][logo]
-
-[logo]:
 
 
 ###
-![alt text][logo]
-
-[logo]:
-
-
-###
-![alt text][logo]
-
-[logo]:
+<p align="center">
+  <img width="460" height="300" src= "nsu.png">
+</p>
 
 
 ###
-![alt text][logo]
+<p align="center">
+  <img width="460" height="300" src= "nsu.png">
+</p>
 
-[logo]:
 
-
-###
-![alt text][logo]
-
-[logo]:
 
 
 
@@ -108,73 +90,77 @@ I have tried a basic html in many backend part to check all the codes I have wri
 
 ### Landing Page
 
-![alt text][logo]
-
-[logo]:
+<p align="center">
+  <img width="460" height="300" src= "Landing.png">
+</p>
 
 In this coding part the it actually can redirect Sign in, Sign out,Sign up part of our project. The codes are perfectly working and redirecting to where the buttons are coded to do.
 
 ### Sign Up
-![alt text][logo]
-
-[logo]:
+<p align="center">
+  <img width="460" height="300" src= "signup.png">
+</p>
 
 In this part we can take input from the user end and can be saved in our database
 
 ### Sign In
-![alt text][logo]
+<p align="center">
+  <img width="460" height="300" src= "Sign_in.png">
+</p>
 
-[logo]:
+<p align="center">
+  <img width="460" height="300" src= "Sign_in_successfully.png">
+</p>
 
 After successfully signed up,we can signout and sign in again successfully with correct password and email address
 
 ### Sign out
 
-![alt text][logo]
-
-[logo]:
+<p align="center">
+  <img width="460" height="300" src= "Signout.png">
+</p>
 
 By pressing this button user has been signed out from the session.
 
 ### Without Sign In Show
-![alt text][logo]
-
-[logo]:
+<p align="center">
+  <img width="460" height="300" src= "without_signin_show.png">
+</p>
 
 Without sign in any user can see the post of this nsu event management website.But they can only see the post.
 
 ### Post
-![alt text][logo]
-
-[logo]:
+<p align="center">
+  <img width="460" height="300" src= "post_created.png">
+</p>
 
 So when we press the button of new post we will be rediected to a new page where we can input the title and body of the post and can save it in the database.
 
 ### Post Showing Page
-![alt text][logo]
-
-[logo]:
+<p align="center">
+  <img width="460" height="300" src= "post_showing_page.png">
+</p>
 
 So after the event post created users can see the post from where with a short details and also user name of the emails first part will be shown as user name.
 
 ### Show
-![alt text][logo]
-
-[logo]:
+<p align="center">
+  <img width="460" height="300" src= "Show.png">
+</p>
 
 Users can show the details from here.
 
 
 ### Edit
-![alt text][logo]
-
-[logo]:
+<p align="center">
+  <img width="460" height="300" src= "editing.png">
+</p>
 
 Users can edit the post of his/her post and post it again.
 
 ### Destroy
-![alt text][logo]
-
-[logo]:
+<p align="center">
+  <img width="460" height="300" src= "destroy.png">
+</p>
 
 User can delete the post and we will take confirmation from them before the deletation.
