@@ -4,15 +4,17 @@
   <img width="460" height="300" src= "Documentation/nsu.png">
 </p>
 
-<p align="center">
-# Project Name:  NSU Event Management Tool
-## Course Name : CSE 299
-## Section : 16
-## Group Number : 04
-## Semester : Summer 2019
-## Faculty Name : Shaikh Shawon Arefin Shimon
 
-## Student Name     ID     NSU EMAIL
+
+<p align="center">
+Project Name:  NSU Event Management Tool<br>
+Course Name : CSE 299<br>
+Section : 16<br>
+Group Number : 04<br>
+Semester : Summer 2019<br>
+Faculty Name : Shaikh Shawon Arefin Shimon<br>
+
+## Student's Details
 Md. Sadman Ahmed (1620674042) sadman.ahmed16@northsouth.edu<br>
 Shafin Ahmed (1621056042) shafin.ahmed@northsouth.edu
 
