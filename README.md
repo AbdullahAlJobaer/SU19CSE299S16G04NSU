@@ -4,9 +4,8 @@
   <img width="460" height="300" src= "Documentation/nsu.png">
 </p>
 
-
+<p align="center">
 # Project Name:  NSU Event Management Tool
-
 ## Course Name : CSE 299
 ## Section : 16
 ## Group Number : 04
@@ -14,15 +13,16 @@
 ## Faculty Name : Shaikh Shawon Arefin Shimon
 
 ## Student Name     ID     NSU EMAIL
-Md. Sadman Ahmed 1620674042 sadman.ahmed16@northsouth.edu
-Shafin Ahmed 1621056042 shafin.ahmed@northsouth.edu
+Md. Sadman Ahmed (1620674042) sadman.ahmed16@northsouth.edu<br>
+Shafin Ahmed (1621056042) shafin.ahmed@northsouth.edu
 
 ## Git Respository Link : https://github.com/sadmanahmed/SU19CSE299S16G04NSU
 
 
-Date  : 12/06/2019
+Date  : 21/08/2019
 
-# Project Idea: NSU Event Management Tool
+</p>
+
 ## Details:
 
 ## 1) Project Idea in brief:
@@ -43,6 +43,7 @@ The user can only see whatever event is going around him and he doesn’t have a
 
 The users has to sign up with NSU email id for instant access or they can use normal gmail id but it has to be verified.
 
+
 ## 3)Technology:
 
 We will use Github as project management tool, Trello for different task allocation.
@@ -56,7 +57,7 @@ Now a day mobile banking is becoming popular day by day. That is why we want to 
 
 
 
-# Project Report
+# Working Progress
 
 ## Front END Development Part
 
