@@ -1,28 +1,29 @@
 
 
 <p align="center">
-  <img width="460" height="300" src= "nsu.png">
+  <img width="460" height="300" src= "Documentation/nsu.png">
 </p>
 
 
-# Project Name:  NSU Event Management Tool
 
-## Course Name : CSE 299
-## Section : 16
-## Group Number : 04
-## Semester : Summer 2019
-## Faculty Name : Shaikh Shawon Arefin Shimon
+<p align="center">
+Project Name:  NSU Event Management Tool<br>
+Course Name : CSE 299<br>
+Section : 16<br>
+Group Number : 04<br>
+Semester : Summer 2019<br>
+Faculty Name : Shaikh Shawon Arefin Shimon<br>
+Git Respository Link : https://github.com/sadmanahmed/SU19CSE299S16G04NSU<br>
+Date  : 21/08/2019<br>
+</p>
 
-## Student Name     ID     NSU EMAIL
-Md. Sadman Ahmed 1620674042 sadman.ahmed16@northsouth.edu
-Shafin Ahmed 1621056042 shafin.ahmed@northsouth.edu
+## Student's Details :
+<br>
+1) Md. Sadman Ahmed (1620674042) sadman.ahmed16@northsouth.edu<br>
+2) Shafin Ahmed (1621056042) shafin.ahmed@northsouth.edu<br>
 
-## Git Respository Link : https://github.com/sadmanahmed/SU19CSE299S16G04NSU
 
 
-Date  : 12/06/2019
-
-# Project Idea: NSU Event Management Tool
 ## Details:
 
 ## 1) Project Idea in brief:
@@ -43,6 +44,7 @@ The user can only see whatever event is going around him and he doesn’t have a
 
 The users has to sign up with NSU email id for instant access or they can use normal gmail id but it has to be verified.
 
+
 ## 3)Technology:
 
 We will use Github as project management tool, Trello for different task allocation.
@@ -56,13 +58,13 @@ Now a day mobile banking is becoming popular day by day. That is why we want to 
 
 
 
-# Project Report
+# Working Progress
 
 ## Front END Development Part
 
 ### Landing Page
 <p align="center">
-  <img width="460" height="300" src= "LandingPage.jpg">
+  <img width="460" height="300" src= "Documentation/LandingPage.jpg">
 </p>
 
 After enter the address of the website, user first of all see this page. Here he or she can login if he or she has already a account here. Otherwise there is also a option for signup.
@@ -70,49 +72,49 @@ After enter the address of the website, user first of all see this page. Here he
 
 ### Login
 <p align="center">
-  <img width="460" height="300" src= "Login.jpg">
+  <img width="460" height="300" src= "Documentation/Login.jpg">
 </p>
 
 To enter in to the website, user have to login. Here user can login into the website with his or her nsu email and password.
 
 ### Sign Up
 <p align="center">
-  <img width="460" height="300" src= "Signup.jpg">
+  <img width="460" height="300" src= "Documentation/Signup.jpg">
 </p>
 
 For a new user, he or she has to register in the website. For this, he or she has to enter his or her name, nsu email and password here. Without nsu email, no one can register in the website as it is only for the students of North South University.
 
 ### Home
 <p align="center">
-  <img width="460" height="300" src= "Home.jpg">
+  <img width="460" height="300" src= "Documentation/Home.jpg">
 </p>
 
 After login or signup, user will get this page. Here he or she can get the option for looking events details, events registration, user account and sign out.
 
 ### Events
 <p align="center">
-  <img width="460" height="300" src= "Events.JPG">
+  <img width="460" height="300" src= "Documentation/Events.JPG">
 </p>
 
 Here user can find the REGISTERED and REGISTRATION option of the events.
 
 ### User
 <p align="center">
-  <img width="460" height="300" src= "User.JPG">
+  <img width="460" height="300" src= "Documentation/User.JPG">
 </p>
 
 In this section user will find to see his or her profile through ACCOUNT and also find the SIGN OUT option.
 
 ### Registration
 <p align="center">
-  <img width="460" height="300" src= "Registration.jpg">
+  <img width="460" height="300" src= "Documentation/Registration.jpg">
 </p>
 
 In this page, an user can create an event. He or she can put the necessary details here like event name, date, details and location. Again he or she can find the payment option here to post an event.
 
 ### Registered
 <p align="center">
-  <img width="460" height="300" src= "Registered.jpg">
+  <img width="460" height="300" src= "Documentation/Registered.jpg">
 </p>
 
 Here people will find the schedules of different events. They can also know the details also from here.
@@ -133,25 +135,25 @@ I have tried a basic html in many backend part to check all the codes I have wri
 ### Landing Page
 
 <p align="center">
-  <img width="460" height="300" src= "Landing.png">
+  <img width="460" height="300" src= "Documentation/Landing.png">
 </p>
 
 In this coding part the it actually can redirect Sign in, Sign out,Sign up part of our project. The codes are perfectly working and redirecting to where the buttons are coded to do.
 
 ### Sign Up
 <p align="center">
-  <img width="460" height="300" src= "signup.png">
+  <img width="460" height="300" src= "Documentation/signup.png">
 </p>
 
 In this part we can take input from the user end and can be saved in our database
 
 ### Sign In
 <p align="center">
-  <img width="460" height="300" src= "Sign_in.png">
+  <img width="460" height="300" src= "Documentation/Sign_in.png">
 </p>
 
 <p align="center">
-  <img width="460" height="300" src= "Sign_in_successfully.png">
+  <img width="460" height="300" src= "Documentation/Sign_in_successfully.png">
 </p>
 
 After successfully signed up,we can signout and sign in again successfully with correct password and email address
@@ -159,35 +161,35 @@ After successfully signed up,we can signout and sign in again successfully with 
 ### Sign out
 
 <p align="center">
-  <img width="460" height="300" src= "Signout.png">
+  <img width="460" height="300" src= "Documentation/Signout.png">
 </p>
 
 By pressing this button user has been signed out from the session.
 
 ### Without Sign In Show
 <p align="center">
-  <img width="460" height="300" src= "without_signin_show.png">
+  <img width="460" height="300" src= "Documentation/without_signin_show.png">
 </p>
 
 Without sign in any user can see the post of this nsu event management website.But they can only see the post.
 
 ### Post
 <p align="center">
-  <img width="460" height="300" src= "post_created.png">
+  <img width="460" height="300" src= "Documentation/post_created.png">
 </p>
 
 So when we press the button of new post we will be rediected to a new page where we can input the title and body of the post and can save it in the database.
 
 ### Post Showing Page
 <p align="center">
-  <img width="460" height="300" src= "post_showing_page.png">
+  <img width="460" height="300" src= "Documentation/post_showing_page.png">
 </p>
 
 So after the event post created users can see the post from where with a short details and also user name of the emails first part will be shown as user name.
 
 ### Show
 <p align="center">
-  <img width="460" height="300" src= "Show.png">
+  <img width="460" height="300" src= "Documentation/Show.png">
 </p>
 
 Users can show the details from here.
@@ -195,14 +197,14 @@ Users can show the details from here.
 
 ### Edit
 <p align="center">
-  <img width="460" height="300" src= "editing.png">
+  <img width="460" height="300" src= "Documentation/editing.png">
 </p>
 
 Users can edit the post of his/her post and post it again.
 
 ### Destroy
 <p align="center">
-  <img width="460" height="300" src= "destroy.png">
+  <img width="460" height="300" src= "Documentation/destroy.png">
 </p>
 
 User can delete the post and we will take confirmation from them before the deletation.
