@@ -7,21 +7,21 @@
 
 
 <p align="center">
-**Project Name:  NSU Event Management Tool** <br>
-**Course Name : CSE 299** <br>
-**Section : 16** <br>
-**Group Number : 04** <br>
-**Semester : Summer 2019** <br>
-**Faculty Name : Shaikh Shawon Arefin Shimon** <br>
-**Student's Details :** <br>
-**Name: Md. Sadman Ahmed** <br>
-**ID: 1620674042** <br>
-**Email: sadman.ahmed16@northsouth.edu** <br>
-** Name: Shafin Ahmed** <br>
-**ID: 1621056042** <br>
-**Email: shafin.ahmed@northsouth.edu** <br>
-**Git Respository Link : https://github.com/sadmanahmed/SU19CSE299S16G04NSU** <br>
-**Date  : 05/09/2019** <br>
+**Project Name:  NSU Event Management Tool <br>
+Course Name : CSE 299 <br>
+Section : 16 <br>
+Group Number : 04 <br>
+Semester : Summer 2019 <br>
+Faculty Name : Shaikh Shawon Arefin Shimon <br>
+Student's Details : <br>
+Name: Md. Sadman Ahmed <br>
+ID: 1620674042 <br>
+Email: sadman.ahmed16@northsouth.edu <br>
+Name: Shafin Ahmed <br>
+ID: 1621056042 <br>
+Email: shafin.ahmed@northsouth.edu <br>
+Git Respository Link : https://github.com/sadmanahmed/SU19CSE299S16G04NSU <br>
+Date  : 05/09/2019** <br>
 </p>
 
 
