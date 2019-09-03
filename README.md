@@ -14,12 +14,10 @@
 **Semester : Summer 2019** <br>
 **Faculty Name : Shaikh Shawon Arefin Shimon** <br>
 **Student's Details :** <br>
-
 **Name: Md. Sadman Ahmed** <br>
 **ID: 1620674042** <br>
 **Email: sadman.ahmed16@northsouth.edu** <br>
-
-**Name: Shafin Ahmed** <br>
+** Name: Shafin Ahmed** <br>
 **ID: 1621056042** <br>
 **Email: shafin.ahmed@northsouth.edu** <br>
 **Git Respository Link : https://github.com/sadmanahmed/SU19CSE299S16G04NSU** <br>
